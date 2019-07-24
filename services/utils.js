@@ -1,8 +1,8 @@
 const utils = {
     smtp : {
         provider : 'gmail',
-        address :  'supriyawinisri1012@gmail.com',
-        password : 'Shanmugapriya@1012'
+        address :  'ibmtechtraining007@gmail.com',
+        password : 'India@786
     }
 }
 
